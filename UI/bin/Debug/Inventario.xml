@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Inventarios>
+	<Inventario Codigo = "1">
+		<Codigo_Producto>1</Codigo_Producto>
+		<Cantidad>5</Cantidad>
+	</Inventario>
+</Inventarios>

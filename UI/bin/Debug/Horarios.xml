@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Horarios>
+  <Horario Codigo="1">
+    <Fecha>15/03/2022</Fecha>
+    <Hora_Inicio>12:00</Hora_Inicio>
+    <Hora_Fin>13:00</Hora_Fin>
+    <Cantidad_Empleados>2</Cantidad_Empleados>
+  </Horario>
+</Horarios>

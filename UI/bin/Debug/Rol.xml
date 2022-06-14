@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Roles>
+	<Rol Codigo="1">
+		<Nombre>Administrador</Nombre>
+	</Rol>
+	<Rol Codigo="2">
+		<Nombre>Empleado</Nombre>
+	</Rol>
+</Roles>

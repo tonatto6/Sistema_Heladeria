@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Detalle_Pedidos>
+  <Detalle_Pedido N_Pedido="1">
+    <Codigo_Producto>6</Codigo_Producto>
+    <Precio_Unitario>150</Precio_Unitario>
+  </Detalle_Pedido>
+  <Detalle_Pedido N_Pedido="1">
+    <Codigo_Producto>6</Codigo_Producto>
+    <Precio_Unitario>150</Precio_Unitario>
+  </Detalle_Pedido>
+  <Detalle_Pedido N_Pedido="1">
+    <Codigo_Producto>6</Codigo_Producto>
+    <Precio_Unitario>150</Precio_Unitario>
+  </Detalle_Pedido>
+  <Detalle_Pedido N_Pedido="1">
+    <Codigo_Producto>6</Codigo_Producto>
+    <Precio_Unitario>150</Precio_Unitario>
+  </Detalle_Pedido>
+  <Detalle_Pedido N_Pedido="1">
+    <Codigo_Producto>6</Codigo_Producto>
+    <Precio_Unitario>150</Precio_Unitario>
+  </Detalle_Pedido>
+  <Detalle_Pedido N_Pedido="2">
+    <Codigo_Producto>3</Codigo_Producto>
+    <Precio_Unitario>190</Precio_Unitario>
+  </Detalle_Pedido>
+  <Detalle_Pedido N_Pedido="2">
+    <Codigo_Producto>3</Codigo_Producto>
+    <Precio_Unitario>190</Precio_Unitario>
+  </Detalle_Pedido>
+  <Detalle_Pedido N_Pedido="3">
+    <Codigo_Producto>4</Codigo_Producto>
+    <Precio_Unitario>150</Precio_Unitario>
+  </Detalle_Pedido>
+  <Detalle_Pedido N_Pedido="3">
+    <Codigo_Producto>5</Codigo_Producto>
+    <Precio_Unitario>180</Precio_Unitario>
+  </Detalle_Pedido>
+  <Detalle_Pedido N_Pedido="3">
+    <Codigo_Producto>1</Codigo_Producto>
+    <Precio_Unitario>780</Precio_Unitario>
+  </Detalle_Pedido>
+  <Detalle_Pedido N_Pedido="3">
+    <Codigo_Producto>1</Codigo_Producto>
+    <Precio_Unitario>780</Precio_Unitario>
+  </Detalle_Pedido>
+</Detalle_Pedidos>

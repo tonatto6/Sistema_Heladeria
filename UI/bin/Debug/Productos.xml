@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Productos>
+  <Producto Codigo="1">
+    <Nombre>Torta ajedrez</Nombre>
+    <Precio>900</Precio>
+    <Cantidad>3</Cantidad>
+  </Producto>
+  <Producto Codigo="2">
+    <Nombre>Carioca</Nombre>
+    <Precio>180</Precio>
+    <Cantidad>2</Cantidad>
+  </Producto>
+  <Producto Codigo="3">
+    <Nombre>Bayin</Nombre>
+    <Precio>210</Precio>
+    <Cantidad>8</Cantidad>
+  </Producto>
+  <Producto Codigo="4">
+    <Nombre>Helado 2 bochas</Nombre>
+    <Precio>150</Precio>
+    <Cantidad>0</Cantidad>
+  </Producto>
+  <Producto Codigo="5">
+    <Nombre>Helado 3 bochas</Nombre>
+    <Precio>180</Precio>
+    <Cantidad>6</Cantidad>
+  </Producto>
+  <Producto Codigo="6">
+    <Nombre>Helado 1 bocha</Nombre>
+    <Precio>150</Precio>
+    <Cantidad>4</Cantidad>
+  </Producto>
+  <Producto Codigo="7">
+    <Nombre>Bombon escoces</Nombre>
+    <Precio>190</Precio>
+    <Cantidad>13</Cantidad>
+  </Producto>
+  <Producto Codigo="8">
+    <Nombre>Bombon suizo</Nombre>
+    <Precio>210</Precio>
+    <Cantidad>15</Cantidad>
+  </Producto>
+</Productos>

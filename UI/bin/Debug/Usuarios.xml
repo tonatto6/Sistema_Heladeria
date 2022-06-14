@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Usuarios>
+  <Usuario Codigo="1">
+    <Nombre_Usuario>jefe</Nombre_Usuario>
+    <Contraseña>MQAyADMANAA1AA==</Contraseña>
+  </Usuario>
+  <Usuario Codigo="2">
+    <Nombre_Usuario>atencion</Nombre_Usuario>
+    <Contraseña>MQAyADMA</Contraseña>
+  </Usuario>
+  <Usuario Codigo="3">
+    <Nombre_Usuario>produccion1</Nombre_Usuario>
+    <Contraseña>MQAyADMA</Contraseña>
+  </Usuario>
+</Usuarios>

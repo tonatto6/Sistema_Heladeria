@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Encargados_Atencion_Publico>
+  <Encargado_Atencion Codigo="1">
+    <DNI>23985456</DNI>
+    <Nombre>Genaro</Nombre>
+    <Apellido>Priotti</Apellido>
+    <Codigo_Usuario>2</Codigo_Usuario>
+    <Codigo_Rol>2</Codigo_Rol>
+  </Encargado_Atencion>
+</Encargados_Atencion_Publico>

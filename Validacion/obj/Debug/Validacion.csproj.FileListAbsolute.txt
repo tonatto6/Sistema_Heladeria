@@ -1,0 +1,6 @@
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\Validacion\bin\Debug\Validacion.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\Validacion\bin\Debug\Validacion.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\Validacion\obj\Debug\Validacion.csproj.CoreCompileInputs.cache
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\Validacion\obj\Debug\Validacion.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\Validacion\obj\Debug\Validacion.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\Validacion\obj\Debug\Validacion.csproj.AssemblyReference.cache

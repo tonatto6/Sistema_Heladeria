@@ -1,0 +1,143 @@
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\UI.exe.config
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\UI.exe
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\UI.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmLogin.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.exe
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BE.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BE.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmMenuPrincipal.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmPersonal.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmEncargadoDeProduccion.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmProducto.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\Capa_Encriptacion.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\Capa_Encriptacion.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BLL.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\MPP.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BLL.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\MPP.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmClientes.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmVenta.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmNuevoCliente.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmAtencionAlPublico.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmSorteo.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmJefe.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmHorarios.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmModificarContraseña.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmPrecios.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmVerHorarios.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmMetodosDePago.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmInformeVentas.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmVerSorteos.resources
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmNuevoMenu.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\UI.exe.config
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\UI.exe
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\UI.pdb
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BE.dll
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BLL.dll
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\Capa_Encriptacion.dll
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\MPP.dll
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BE.pdb
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BLL.pdb
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\Capa_Encriptacion.pdb
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\MPP.pdb
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmAtencionAlPublico.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmClientes.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmEncargadoDeProduccion.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmHorarios.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmInformeVentas.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmJefe.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmLogin.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmMenuPrincipal.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmMetodosDePago.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmModificarContraseña.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmNuevoCliente.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmNuevoMenu.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmPersonal.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmPrecios.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmProducto.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmSorteo.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmVenta.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmVerHorarios.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmVerSorteos.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.exe
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\UI.exe.config
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.exe
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\UI.exe
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\UI.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BE.dll
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BLL.dll
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\Capa_Encriptacion.dll
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\MPP.dll
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BE.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BLL.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\Capa_Encriptacion.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\bin\Debug\MPP.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmAtencionAlPublico.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmClientes.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmEncargadoDeProduccion.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmHorarios.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmInformeVentas.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmJefe.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmLogin.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmMenuPrincipal.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmMetodosDePago.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmModificarContraseña.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmNuevoCliente.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmNuevoMenu.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmPersonal.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmPrecios.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmProducto.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmSorteo.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmVenta.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmVerHorarios.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmVerSorteos.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Properties.Resources.resources
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\bin\Debug\UI.exe.config
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\bin\Debug\UI.exe
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\bin\Debug\UI.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BE.dll
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BLL.dll
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\bin\Debug\Capa_Encriptacion.dll
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\bin\Debug\MPP.dll
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BE.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\bin\Debug\BLL.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\bin\Debug\Capa_Encriptacion.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\bin\Debug\MPP.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmAtencionAlPublico.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmClientes.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmEncargadoDeProduccion.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmHorarios.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmInformeVentas.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmJefe.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmLogin.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmMenuPrincipal.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmMetodosDePago.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmModificarContraseña.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmNuevoCliente.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmNuevoMenu.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmPersonal.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmPrecios.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmProducto.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmSorteo.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmVenta.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmVerHorarios.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Forms.frmVerSorteos.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.exe
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\UI\obj\Debug\UI.pdb

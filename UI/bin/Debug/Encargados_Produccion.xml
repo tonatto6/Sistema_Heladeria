@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Encargados_Produccion>
+  <Encargado_Produccion Codigo="1">
+    <DNI>29784563</DNI>
+    <Nombre>Fernando</Nombre>
+    <Apellido>Funes</Apellido>
+    <Codigo_Usuario>3</Codigo_Usuario>
+    <Codigo_Rol>2</Codigo_Rol>
+  </Encargado_Produccion>
+</Encargados_Produccion>

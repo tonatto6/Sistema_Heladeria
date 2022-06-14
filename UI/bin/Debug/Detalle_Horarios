@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Detalle_Horarios>
+  <Detalle_Horario Codigo="2">
+    <Codigo_Empleado>2</Codigo_Empleado>
+    <Rol>Encargado atencion</Rol>
+  </Detalle_Horario>
+  <Detalle_Horario Codigo="2">
+    <Codigo_Empleado>5</Codigo_Empleado>
+    <Rol>Encargado produccion</Rol>
+  </Detalle_Horario>
+</Detalle_Horarios>

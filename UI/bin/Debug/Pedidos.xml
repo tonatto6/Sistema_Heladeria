@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pedidos>
+  <Pedido N_Pedido="1">
+    <Id_Encargado_Atencion>1</Id_Encargado_Atencion>
+    <Rol>2</Rol>
+    <Id_Cliente>0</Id_Cliente>
+    <Monto_Total>750</Monto_Total>
+    <Fecha>13/03/2022</Fecha>
+    <Id_Metodo_Pago>2</Id_Metodo_Pago>
+  </Pedido>
+  <Pedido N_Pedido="2">
+    <Id_Encargado_Atencion>1</Id_Encargado_Atencion>
+    <Rol>1</Rol>
+    <Id_Cliente>1</Id_Cliente>
+    <Monto_Total>380</Monto_Total>
+    <Fecha>13/03/2022</Fecha>
+    <Id_Metodo_Pago>1</Id_Metodo_Pago>
+  </Pedido>
+  <Pedido N_Pedido="3">
+    <Id_Encargado_Atencion>1</Id_Encargado_Atencion>
+    <Rol>1</Rol>
+    <Id_Cliente>0</Id_Cliente>
+    <Monto_Total>1890</Monto_Total>
+    <Fecha>14/03/2022</Fecha>
+    <Id_Metodo_Pago>2</Id_Metodo_Pago>
+  </Pedido>
+</Pedidos>

@@ -1,0 +1,50 @@
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BLL.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BLL.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BE.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\Capa_Encriptacion.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\MPP.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BE.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\Capa_Encriptacion.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\MPP.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BLL.dll
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BLL.pdb
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BE.dll
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\Capa_Encriptacion.dll
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\MPP.dll
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BE.pdb
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\Capa_Encriptacion.pdb
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\MPP.pdb
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.dll
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BLL.dll
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BLL.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BE.dll
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\Capa_Encriptacion.dll
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\MPP.dll
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BE.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\Capa_Encriptacion.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\MPP.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.dll
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BLL.dll
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BLL.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BE.dll
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\Capa_Encriptacion.dll
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\MPP.dll
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\BE.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\Capa_Encriptacion.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BLL\bin\Debug\MPP.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.dll
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BLL\obj\Debug\BLL.csproj.CopyComplete

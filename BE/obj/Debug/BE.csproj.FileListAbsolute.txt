@@ -1,0 +1,17 @@
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BE\bin\Debug\BE.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BE\bin\Debug\BE.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BE\obj\Debug\BE.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BE\obj\Debug\BE.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BE\bin\Debug\BE.dll
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BE\bin\Debug\BE.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BE\obj\Debug\BE.dll
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\BE\obj\Debug\BE.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BE\bin\Debug\BE.dll
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BE\bin\Debug\BE.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BE\obj\Debug\BE.dll
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\BE\obj\Debug\BE.pdb

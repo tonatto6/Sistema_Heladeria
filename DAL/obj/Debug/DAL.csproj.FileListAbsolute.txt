@@ -1,0 +1,23 @@
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\bin\Debug\DAL.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\bin\Debug\DAL.pdb
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.dll
+C:\Facultad\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.pdb
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\bin\Debug\DAL.dll
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\bin\Debug\DAL.pdb
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.dll
+D:\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\bin\Debug\DAL.dll
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\bin\Debug\DAL.pdb
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.dll
+F:\Trabajo Final\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\DAL\bin\Debug\DAL.dll
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\DAL\bin\Debug\DAL.pdb
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.dll
+C:\Backup-TPFinal\Tonatto_Lazaro-TPFinal\DAL\obj\Debug\DAL.pdb

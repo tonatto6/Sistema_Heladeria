@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Metodos_Pago>
+  <Metodo_Pago Codigo="1">
+    <Nombre>Efectivo</Nombre>
+  </Metodo_Pago>
+  <Metodo_Pago Codigo="2">
+    <Nombre>Mercado Pago</Nombre>
+  </Metodo_Pago>
+  <Metodo_Pago Codigo="3">
+    <Nombre>Credito</Nombre>
+  </Metodo_Pago>
+  <Metodo_Pago Codigo="4">
+    <Nombre>Debito</Nombre>
+  </Metodo_Pago>
+</Metodos_Pago>

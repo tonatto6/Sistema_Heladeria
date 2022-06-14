@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Usuarios>
+  <Jefe Codigo="1">
+    <DNI>42482150</DNI>
+    <Nombre>Lazaro</Nombre>
+    <Apellido>Tonatto</Apellido>
+    <Codigo_Usuario>1</Codigo_Usuario>
+    <Fecha_Nacimiento>23/05/2000 0:00:00</Fecha_Nacimiento>
+    <Direccion>San Martin 550</Direccion>
+    <Codigo_Rol>1</Codigo_Rol>
+  </Jefe>
+</Usuarios>

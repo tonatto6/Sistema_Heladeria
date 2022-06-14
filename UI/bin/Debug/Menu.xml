@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Menues>
+	<Menu Codigo="1">
+		<Nombre>Ventas</Nombre>
+	</Menu>
+	<Menu Codigo="2">
+		<Nombre>Productos</Nombre>
+	</Menu>
+	<Menu Codigo="3">
+		<Nombre>Precios</Nombre>
+	</Menu>
+	<Menu Codigo="4">
+		<Nombre>Jefes</Nombre>
+	</Menu>
+	<Menu Codigo="5">
+		<Nombre>Personal</Nombre>
+	</Menu>
+	<Menu Codigo="6">
+		<Nombre>Clientes</Nombre>
+	</Menu>
+	<Menu Codigo="7">
+		<Nombre>Horarios</Nombre>
+	</Menu>
+	<Menu Codigo="8">
+		<Nombre>Ver horarios</Nombre>
+	</Menu>
+	<Menu Codigo="9">
+		<Nombre>Metodos de pago</Nombre>
+	</Menu>
+	<Menu Codigo="10">
+		<Nombre>Informe ventas</Nombre>
+	</Menu>
+	<Menu Codigo="11">
+		<Nombre>Sorteos</Nombre>
+	</Menu>
+	<Menu Codigo="12">
+		<Nombre>Cerrar sesion</Nombre>
+	</Menu>
+</Menues>

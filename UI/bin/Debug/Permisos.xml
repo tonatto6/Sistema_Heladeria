@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Permisos>
+	<Permiso Codigo="1">
+		<Codigo_Rol>1</Codigo_Rol>
+		<Codigo_Menu>1</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="2">
+		<Codigo_Rol>1</Codigo_Rol>
+		<Codigo_Menu>2</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="3">
+		<Codigo_Rol>1</Codigo_Rol>
+		<Codigo_Menu>3</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="4">
+		<Codigo_Rol>1</Codigo_Rol>
+		<Codigo_Menu>4</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="5">
+		<Codigo_Rol>1</Codigo_Rol>
+		<Codigo_Menu>5</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="5">
+		<Codigo_Rol>1</Codigo_Rol>
+		<Codigo_Menu>6</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="7">
+		<Codigo_Rol>1</Codigo_Rol>
+		<Codigo_Menu>7</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="8">
+		<Codigo_Rol>1</Codigo_Rol>
+		<Codigo_Menu>8</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="9">
+		<Codigo_Rol>1</Codigo_Rol>
+		<Codigo_Menu>9</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="10">
+		<Codigo_Rol>1</Codigo_Rol>
+		<Codigo_Menu>10</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="11">
+		<Codigo_Rol>1</Codigo_Rol>
+		<Codigo_Menu>11</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="12">
+		<Codigo_Rol>1</Codigo_Rol>
+		<Codigo_Menu>12</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+
+	<Permiso Codigo="13">
+		<Codigo_Rol>2</Codigo_Rol>
+		<Codigo_Menu>1</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="14">
+		<Codigo_Rol>2</Codigo_Rol>
+		<Codigo_Menu>2</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="15">
+		<Codigo_Rol>2</Codigo_Rol>
+		<Codigo_Menu>3</Codigo_Menu>
+		<Activo>0</Activo>
+	</Permiso>
+	<Permiso Codigo="16">
+		<Codigo_Rol>2</Codigo_Rol>
+		<Codigo_Menu>4</Codigo_Menu>
+		<Activo>0</Activo>
+	</Permiso>
+	<Permiso Codigo="17">
+		<Codigo_Rol>2</Codigo_Rol>
+		<Codigo_Menu>5</Codigo_Menu>
+		<Activo>0</Activo>
+	</Permiso>
+	<Permiso Codigo="18">
+		<Codigo_Rol>2</Codigo_Rol>
+		<Codigo_Menu>6</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="19">
+		<Codigo_Rol>2</Codigo_Rol>
+		<Codigo_Menu>7</Codigo_Menu>
+		<Activo>0</Activo>
+	</Permiso>
+	<Permiso Codigo="20">
+		<Codigo_Rol>2</Codigo_Rol>
+		<Codigo_Menu>8</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+	<Permiso Codigo="21">
+		<Codigo_Rol>2</Codigo_Rol>
+		<Codigo_Menu>9</Codigo_Menu>
+		<Activo>0</Activo>
+	</Permiso>
+	<Permiso Codigo="22">
+		<Codigo_Rol>2</Codigo_Rol>
+		<Codigo_Menu>10</Codigo_Menu>
+		<Activo>0</Activo>
+	</Permiso>
+	<Permiso Codigo="23">
+		<Codigo_Rol>2</Codigo_Rol>
+		<Codigo_Menu>11</Codigo_Menu>
+		<Activo>0</Activo>
+	</Permiso>
+	<Permiso Codigo="24">
+		<Codigo_Rol>2</Codigo_Rol>
+		<Codigo_Menu>12</Codigo_Menu>
+		<Activo>1</Activo>
+	</Permiso>
+</Permisos>

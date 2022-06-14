@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Clientes>
+  <Cliente Codigo="1">
+    <DNI>23983747</DNI>
+    <Nombre>Lorena</Nombre>
+    <Apellido>Srhoj</Apellido>
+  </Cliente>
+  <Cliente Codigo="2">
+    <DNI>38485963</DNI>
+    <Nombre>Alexis</Nombre>
+    <Apellido>Ramos</Apellido>
+  </Cliente>
+  <Cliente Codigo="3">
+    <DNI>42485965</DNI>
+    <Nombre>Adrian</Nombre>
+    <Apellido>Arias</Apellido>
+  </Cliente>
+  <Cliente Codigo="4">
+    <DNI>40141512</DNI>
+    <Nombre>Matias</Nombre>
+    <Apellido>Galigani</Apellido>
+  </Cliente>
+  <Cliente Codigo="0">
+    <DNI>40000000</DNI>
+    <Nombre>Roberto</Nombre>
+    <Apellido>Tonatto</Apellido>
+  </Cliente>
+</Clientes>

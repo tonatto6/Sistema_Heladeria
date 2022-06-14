@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contactos>
+  <Contacto_Persona Codigo="1">
+    <Contacto>124578</Contacto>
+    <Persona>1</Persona>
+    <Descripcion_Persona>Cliente</Descripcion_Persona>
+  </Contacto_Persona>
+  <Contacto_Persona Codigo="2">
+    <Contacto>15487546</Contacto>
+    <Persona>2</Persona>
+    <Descripcion_Persona>Cliente</Descripcion_Persona>
+  </Contacto_Persona>
+  <Contacto_Persona Codigo="3">
+    <Contacto>1845154</Contacto>
+    <Persona>1</Persona>
+    <Descripcion_Persona>Encargado_Produccion</Descripcion_Persona>
+  </Contacto_Persona>
+  <Contacto_Persona Codigo="4">
+    <Contacto>ferfu@gmail.com</Contacto>
+    <Persona>1</Persona>
+    <Descripcion_Persona>Encargado_Produccion</Descripcion_Persona>
+  </Contacto_Persona>
+  <Contacto_Persona Codigo="5">
+    <Contacto>1485963</Contacto>
+    <Persona>1</Persona>
+    <Descripcion_Persona>Encargado_Atencion</Descripcion_Persona>
+  </Contacto_Persona>
+  <Contacto_Persona Codigo="6">
+    <Contacto>156244</Contacto>
+    <Persona>3</Persona>
+    <Descripcion_Persona>Cliente</Descripcion_Persona>
+  </Contacto_Persona>
+  <Contacto_Persona Codigo="7">
+    <Contacto>232241</Contacto>
+    <Persona>4</Persona>
+    <Descripcion_Persona>Cliente</Descripcion_Persona>
+  </Contacto_Persona>
+  <Contacto_Persona Codigo="9">
+    <Contacto>roberto@gmail.com</Contacto>
+    <Persona>0</Persona>
+    <Descripcion_Persona>Cliente</Descripcion_Persona>
+  </Contacto_Persona>
+</Contactos>
